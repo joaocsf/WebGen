@@ -1,0 +1,1 @@
+(.*\\((37.png)|(36.png)|(21.png)|(45.png)|(51.png)|(34.png)|(55.png)|(85.png)|(28.png)|(96.png)|(31.png)|(59.png)|(47.png)|(105.png)|(60.png)|(29.png)|(25.png)|(92.png)|(97.png)|(6.png)|(103.png)|(27.png)|(54.png)|(63.png)|(48.png)|(89.png)|(69.png)|(9.png)|(99.png)|(2.png)|(79.png)|(8.png)|(56.png)))

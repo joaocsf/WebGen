@@ -1,0 +1,9 @@
+*.zip
+*.png
+__pycache__/
+generator/*.html
+generator/*.json
+generated/
+*.h5
+.vscode/
+*.pdf
